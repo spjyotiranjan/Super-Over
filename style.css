@@ -12,7 +12,7 @@ body{
     
 }
 .main{
-    height: 100vh;
+    height: 710px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -23,9 +23,9 @@ body{
     height: auto;
 }
 main{
-    width: auto;
+    width: 900px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-wrap: wrap;
     /* padding: 0px 100px; */
 }
